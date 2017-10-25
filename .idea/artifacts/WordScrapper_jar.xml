@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WordScrapper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WordScrapper_jar</output-path>
+    <root id="archive" name="WordScrapper.jar">
+      <element id="module-output" name="WordScrapper" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-io/commons-io/2.5/commons-io-2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.10.2/jsoup-1.10.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
